@@ -1,0 +1,10 @@
+Ningyuan Xiong
+NetID:nxiong
+assignment 3
+lab section: TR 6:15 - 7:30
+
+This program was written in IntelliJ.
+
+In my game, the wall starts to move once the game started. It stops when the user finishes entering speed and angle.
+For winning and losing the game, my program will randomly print out sentence that was already stored in the program.
+Other things, like how many score the user will get, are the same with the handout.
